@@ -2,6 +2,10 @@
 
 ### This is my repository for my certificates.
 
+## November, 29 2024
+
+- [Introdução à AI Generativa](/dio/Fundamentos.AI.Generativa.C478JD8R.pdf)
+
 ## November, 26 2024
 
 - [Automatização com AI](/adapta/2526fa2f081ce7138e88ecee6137448938db.pdf) - Adapta.Org
