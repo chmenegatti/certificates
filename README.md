@@ -2,6 +2,14 @@
 
 ### This is my repository for my certificates.
 
+## December, 04 2024
+
+- [Processamento de Linguagem Natural](/dio/EARIJJC4.pdf) - DIO
+
+- [Algoritmos e Aprendizado de Máquina](/dio/Y0XYZXCE.pdf) - DIO
+
+- [O que são IAs Generativas](/dio/6DNMR1PQ.pdf) - DIO
+
 ## November, 29 2024
 
 - [Introdução à AI Generativa](/dio/Fundamentos.AI.Generativa.C478JD8R.pdf) - DIO
