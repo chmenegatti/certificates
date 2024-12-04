@@ -4,7 +4,7 @@
 
 ## November, 29 2024
 
-- [Introdução à AI Generativa](/dio/Fundamentos.AI.Generativa.C478JD8R.pdf)
+- [Introdução à AI Generativa](/dio/Fundamentos.AI.Generativa.C478JD8R.pdf) - DIO
 
 ## November, 26 2024
 
