@@ -2,6 +2,44 @@
 
 ### This is my repository for my certificates.
 
+## December, 17 2024
+
+- [[Bootcamp] CAIXA - IA Generativa com Microsoft Copilot](/dio/Z4WE3UP3.pdf) - DIO
+
+- [Projetos Práticos com IA](/dio/WXNWYDJQ.pdf) - DIO
+
+- [Como organizar sua vida Financeira com Planilhas Inteligentes e IA](/dio/3OZA4FO4.pdf) - DIO
+
+- [Criando um Podcast com IAs Generativas](/dio/ACJCGKSL.pdf) - DIO
+
+- [Criando um Ebook com ChatGPT & MidJourney](/dio/IMHSM4OS.pdf) - DIO
+
+- [Trabalhando com Ferramentas Copilot](/dio/UVZGE47W.pdf) - DIO
+
+- [Microsoft Copilot Studio: Construa Seu Próprio Copilot Customizado](/dio/0N82N887.pdf) - DIO
+
+- [GitHub Copilot: Como ter mais IA te ajudando na produtividade do dia a dia](/dio/GDQLK269.pdf) - DIO
+
+- [Como trabalhar com Prompts e Linguagem Natural](/dio/YI4CWKRS.pdf) - DIO
+
+- [Act Commands - Seu ChatGPT como Assistente Virtual](/dio/VO6EEVRP.pdf) - DIO
+
+## December, 07 2024
+
+- [Prompts Assertivos para ChatGPT](/dio/QUVUOCAC.pdf) - DIO
+
+## December, 06 2024
+
+- [Engenharia de Prompt: Potencializando o Uso de IA Generativa](/dio/QPNN5TXO.pdf) - DIO
+
+## December, 05 2024
+
+- [Introdução a Inteligência Artificial Generativa](/dio/5GSOZL41.pdf) - DIO
+
+- [Desafios de Responsabilidade Ética e Social com IA Generativa](/dio/UWWTWJBX.pdf) - DIO
+
+- [Visão Computacional](/dio/NBD0KWRJ.pdf) - DIO
+
 ## December, 04 2024
 
 - [Processamento de Linguagem Natural](/dio/EARIJJC4.pdf) - DIO
