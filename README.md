@@ -2,6 +2,18 @@
 
 ### This is my repository for my certificates.
 
+## January, 02 2025
+
+- [Formação ChatGPT for Devs](/dio/NFD19OJ6.pdf) - DIO
+
+## December, 27 2024
+
+- [ChatGPT - Uso para Desenvolvedores](/dio/JNPTVKKQ.pdf) - DIO
+
+## December, 26 2024
+
+- [Como Utilizar o ChatGPT para Refatorar Códigos](/dio/9COWGB06.pdf) - DIO
+
 ## December, 17 2024
 
 - [[Bootcamp] CAIXA - IA Generativa com Microsoft Copilot](/dio/Z4WE3UP3.pdf) - DIO
