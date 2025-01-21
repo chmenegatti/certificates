@@ -2,6 +2,10 @@
 
 ### This is my repository for my certificates.
 
+## January, 21 2025
+
+- [Masterizando AI Generativa](/adapta/252664c4b487a00d6e1f4a8970c99a652d42.pdf) - Adapta.org
+
 ## January, 02 2025
 
 - [Formação ChatGPT for Devs](/dio/NFD19OJ6.pdf) - DIO
