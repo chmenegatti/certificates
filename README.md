@@ -2,6 +2,14 @@
 
 ### This is my repository for my certificates.
 
+## February, 03 2025
+
+- [Introduction to AI and Machine Learning on Google Cloud](/google/P-AI+V+2025-02-03_D9C07265_Cesar%20Henrique%20Menegatti%20de%20Oliveira.pdf) - Google Cloud
+
+## January, 25 2025
+
+- [Introduction to Kubernetes LFS158](/linuxfoundation/cesar-menegatti-9f59744d-31a0-46cf-b75d-7b9f9460698e-certificate.pdf) - Linux Foundation
+
 ## January, 21 2025
 
 - [Masterizando AI Generativa](/adapta/252664c4b487a00d6e1f4a8970c99a652d42.pdf) - Adapta.org
