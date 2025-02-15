@@ -2,6 +2,10 @@
 
 ### This is my repository for my certificates.
 
+## February, 10 2025
+
+- [Google Cloud Fundamentals: Core Infrastructure](/google/P-FA+V+2025-02-10_416447DC_Cesar%20Henrique%20Menegatti%20de%20Oliveira.pdf) - Google Cloud
+
 ## February, 03 2025
 
 - [Introduction to AI and Machine Learning on Google Cloud](/google/P-AI+V+2025-02-03_D9C07265_Cesar%20Henrique%20Menegatti%20de%20Oliveira.pdf) - Google Cloud
