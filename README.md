@@ -4,7 +4,7 @@
 
 ## February, 17 2025
 
-- [GooGetting started with Google Kubernetes Engine](/google/P-GKE+V+2025-02-17_4D3A3A7D_Cesar%20Henrique%20Menegatti%20de%20Oliveira.pdf) - Google Cloud
+- [Getting started with Google Kubernetes Engine](/google/P-GKE+V+2025-02-17_4D3A3A7D_Cesar%20Henrique%20Menegatti%20de%20Oliveira.pdf) - Google Cloud
 
 ## February, 10 2025
 
